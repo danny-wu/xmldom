@@ -239,6 +239,7 @@ exports.entityMap = {
        spades: "♠",
        clubs: "♣",
        hearts: "♥",
-       diams: "♦"
+       diams: "♦",
+       hellip: "…",
 };
 //for(var  n in exports.entityMap){console.log(exports.entityMap[n].charCodeAt())}
